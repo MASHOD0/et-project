@@ -21,3 +21,4 @@ class Summary_Generator:
         summary = article.summary
         
         return summary
+        
